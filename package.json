@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "start": "node app",
+    "start": "npm run build && node app",
     "build": "cd client && npm run build",
     "dev": "nodemon app"
   },

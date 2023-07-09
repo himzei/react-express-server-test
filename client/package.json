@@ -38,5 +38,5 @@
   "devDependencies": {
     "tailwindcss": "^3.3.2"
   },
-  "proxy": "https://port-0-react-express-server-test-20zynm2mljvdoch3.sel4.cloudtype.app"
+  "proxy": "http://localhost:8080"
 }
